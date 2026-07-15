@@ -1,0 +1,3 @@
+*.ipynb !text !filter !merge !diff
+*.zip !text !filter !merge !diff
+*.pptx !text !filter !merge !diff
